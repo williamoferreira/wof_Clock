@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\William\Projects\Lazarus\wof_Clock\icon_24.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="10.361068"
+     inkscape:cx="16.890152"
+     inkscape:cy="30.933106"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ececec;stroke-width:0.264171"
+       id="path984"
+       cx="6.3499999"
+       cy="-6.3499999"
+       r="6.3499999"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:#cccccc;stroke-width:0.122018"
+       id="circle1084"
+       cx="6.3499999"
+       cy="-6.3499999"
+       r="2.9330144"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:#4d4d4d;stroke:#666666;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.3499999,12.567708 v -1.5875"
+       id="path1308" />
+    <path
+       style="fill:#4d4d4d;stroke:#666666;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.3499999,1.7197915 v -1.5875"
+       id="path1720" />
+    <path
+       style="fill:#4d4d4d;stroke:#666666;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 12.567708,6.3499999 h -1.5875"
+       id="path1722" />
+    <path
+       style="fill:#4d4d4d;stroke:#666666;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.7197915,6.3499999 h -1.5875"
+       id="path1724" />
+    <path
+       style="fill:#4d4d4d;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 6.3499999,6.35 0,-3.7041667"
+       id="path2065"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;stroke:#333333;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 6.3718269,6.4026951 10.300689,10.331557"
+       id="path2242"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="1.986258"
+       inkscape:transform-center-x="-1.986258" />
+    <circle
+       style="fill:#4d4d4d;stroke:none;stroke-width:2.38125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2988"
+       cx="6.3499999"
+       cy="6.3499999"
+       r="0.39687499" />
+  </g>
+</svg>
